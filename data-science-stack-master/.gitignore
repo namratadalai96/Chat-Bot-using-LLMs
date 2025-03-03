@@ -1,0 +1,6 @@
+pinned.yaml
+tmp.json
+*.log
+*.deb
+*.rpm
+*.txt
